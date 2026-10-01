@@ -6,6 +6,8 @@ New jobs from more than 13,000 company career sites, for Claude Code, Codex and 
 
 No job boards in between, no reposts posing as new roles. Every result links to the company's own posting and application.
 
+Also listed on [Smithery](https://smithery.ai/servers/yashnam15/find-your-role-first) and the [official MCP Registry](https://registry.modelcontextprotocol.io/v0/servers?search=findyourrolefirst) (`click.findyourrolefirst/jobfeed`).
+
 **See it without signing up:** [new jobs posted in the last 24 hours](https://findyourrolefirst.click/jobs), by role, updated every few hours.
 
 ## Connect
