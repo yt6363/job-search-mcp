@@ -49,7 +49,7 @@ codex mcp add jobfeed --url https://findyourrolefirst.click/mcp --bearer-token-e
 | `count_jobs` | How many roles a search would return. Free, so your agent can narrow before it reads. |
 | `get_changes` | New, updated, reopened and closed roles since your last check. The "what's new since yesterday" call. |
 | `get_job` | One role's latest details and status. |
-| `my_jobs` | Roles you've already seen this month. Re-reading them is free. |
+| `list_my_jobs` | Roles you've already seen this month. Re-reading them is free. |
 | `get_usage` | Your remaining allowance. |
 
 Records carry title, company, location, posted and first-seen dates, and the original posting and apply links. No description text: your agent opens the posting itself when it needs the details.
