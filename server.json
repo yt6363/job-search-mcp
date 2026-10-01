@@ -1,6 +1,6 @@
 {
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
-  "name": "io.github.yt6363/job-search-mcp",
+  "name": "click.findyourrolefirst/jobfeed",
   "title": "Find your role first",
   "description": "New jobs from 13,000+ company career sites, newest first, for Claude Code, Codex and any agent.",
   "websiteUrl": "https://findyourrolefirst.click",
@@ -8,7 +8,7 @@
     "url": "https://github.com/yt6363/job-search-mcp",
     "source": "github"
   },
-  "version": "1.0.0",
+  "version": "1.0.2",
   "remotes": [
     {
       "type": "streamable-http",
@@ -16,7 +16,7 @@
       "headers": [
         {
           "name": "Authorization",
-          "description": "Bearer YOUR_API_KEY, from https://findyourrolefirst.click/account",
+          "description": "Bearer YOUR_API_KEY. Create an agent key at https://findyourrolefirst.click/account",
           "isRequired": true,
           "isSecret": true
         }
