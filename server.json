@@ -8,7 +8,7 @@
     "url": "https://github.com/yt6363/job-search-mcp",
     "source": "github"
   },
-  "version": "1.0.2",
+  "version": "1.0.3",
   "remotes": [
     {
       "type": "streamable-http",
