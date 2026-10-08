@@ -1,6 +1,6 @@
 # Job search MCP server
 
-New jobs from more than 13,000 company career sites, for Claude Code, Codex and any MCP client.
+New jobs from more than 15,000 company career sites, for Claude Code, Codex and any MCP client.
 
 [Find your role first](https://findyourrolefirst.click) reads company career sites directly (Greenhouse, Lever, Ashby and Workday boards, plus Amazon, Apple, Google, Meta, Microsoft and Netflix) every two to six hours, and records the hour each role first appeared. This server lets your AI agent search those roles, newest first, and come back each morning for what's new.
 
@@ -74,3 +74,7 @@ Records carry title, company, location, posted and first-seen dates, and the ori
 - [Tools that pull jobs straight from company career pages](https://findyourrolefirst.click/tools-for-jobs-from-company-career-pages)
 
 Questions or a company we're missing: support@findyourrolefirst.click
+
+## Agent skill
+
+A ready-made skill that tells an agent when and how to use these tools (daily checks, searches, apply kits, and the rule that it never applies for you): [skills/find-your-role-first/SKILL.md](skills/find-your-role-first/SKILL.md).
